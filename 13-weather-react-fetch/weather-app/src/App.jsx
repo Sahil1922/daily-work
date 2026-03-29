@@ -9,7 +9,7 @@ function App() {
       <Weather />
 
       
-
+{/* VITE_WEATHER_API_KEY=d8c27da2e6d6c1f852b8042d223709ea */}
     </div>
   );
 }
